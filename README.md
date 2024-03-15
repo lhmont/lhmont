@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Luiz.
-- 👀 I’m an investigative journalist.
-- 🌱 I’m currently learning R and Python.
-- 💞️ Coding unleashes new possibilities.
-- 📫 Reach me at luiz@berkeley.edu
+- 👀 I’m an investigative journalist with the [IRP](https://journalism.berkeley.edu/programs/mj/investigative-reporting/).
+- 💞️ I'm a Master's student at [Cal](https://www.berkeley.edu/).
+- 🌱 I’m also learning R and Python.
+- 📫 Reach me at [luiz@berkeley.edu](luiz@berkeley.edu)
 
 <!---
 lhmont/lhmont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
