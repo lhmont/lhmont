@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luiz.
 - 👀 I’m an investigative journalist.
 - 🌱 I’m currently learning R and Python.
-- 💞️ Coding helps to do things impossible otherwise.
+- 💞️ Coding unleashes new possibilities.
 - 📫 Reach me at luiz@berkeley.edu
 
 <!---
